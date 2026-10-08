@@ -1,8 +1,13 @@
 
+import Amol from './amol.jsx'
+
 function App() {
 
   return (
+    <>
+
     <h1>HI, I AM AMOL</h1>
+    </>
   )
 }
 
